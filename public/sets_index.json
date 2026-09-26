@@ -1,0 +1,109 @@
+{
+  "sets": [
+    {
+      "setId": "bo00",
+      "examId": "00",
+      "title": "IOE K7 2024–2025 - Bộ đề 00",
+      "totalQuestions": 200,
+      "file": "./bo00.json"
+    },
+    {
+      "setId": "bo01",
+      "examId": "01",
+      "title": "IOE K7 2024–2025 - Bộ đề 01",
+      "totalQuestions": 200,
+      "file": "./bo01.json"
+    },
+    {
+      "setId": "bo02",
+      "examId": "02",
+      "title": "IOE K7 2024–2025 - Bộ đề 02",
+      "totalQuestions": 200,
+      "file": "./bo02.json"
+    },
+    {
+      "setId": "bo03",
+      "examId": "03",
+      "title": "IOE K7 2024–2025 - Bộ đề 03",
+      "totalQuestions": 200,
+      "file": "./bo03.json"
+    },
+    {
+      "setId": "bo04",
+      "examId": "04",
+      "title": "IOE K7 2024–2025 - Bộ đề 04",
+      "totalQuestions": 200,
+      "file": "./bo04.json"
+    },
+    {
+      "setId": "bo05",
+      "examId": "05",
+      "title": "IOE K7 2024–2025 - Bộ đề 05",
+      "totalQuestions": 200,
+      "file": "./bo05.json"
+    },
+    {
+      "setId": "bo06",
+      "examId": "06",
+      "title": "IOE K7 2024–2025 - Bộ đề 06",
+      "totalQuestions": 200,
+      "file": "./bo06.json"
+    },
+    {
+      "setId": "bo07",
+      "examId": "07",
+      "title": "IOE K7 2024–2025 - Bộ đề 07",
+      "totalQuestions": 200,
+      "file": "./bo07.json"
+    },
+    {
+      "setId": "bo08",
+      "examId": "08",
+      "title": "IOE K7 2024–2025 - Bộ đề 08",
+      "totalQuestions": 200,
+      "file": "./bo08.json"
+    },
+    {
+      "setId": "bo09",
+      "examId": "09",
+      "title": "IOE K7 2024–2025 - Bộ đề 09",
+      "totalQuestions": 200,
+      "file": "./bo09.json"
+    },
+    {
+      "setId": "bo10",
+      "examId": "10",
+      "title": "IOE K7 2024–2025 - Bộ đề 10",
+      "totalQuestions": 200,
+      "file": "./bo10.json"
+    },
+    {
+      "setId": "bo11",
+      "examId": "11",
+      "title": "IOE K7 2024–2025 - Bộ đề 11",
+      "totalQuestions": 200,
+      "file": "./bo11.json"
+    },
+    {
+      "setId": "bo12",
+      "examId": "12",
+      "title": "IOE K7 2024–2025 - Bộ đề 12",
+      "totalQuestions": 200,
+      "file": "./bo12.json"
+    },
+    {
+      "setId": "bo13",
+      "examId": "13",
+      "title": "IOE K7 2024–2025 - Bộ đề 13",
+      "totalQuestions": 200,
+      "file": "./bo13.json"
+    },
+    {
+      "setId": "bo14",
+      "examId": "14",
+      "title": "IOE K7 2024–2025 - Bộ đề 14",
+      "totalQuestions": 200,
+      "file": "./bo14.json"
+    }
+  ]
+}

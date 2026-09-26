@@ -1,0 +1,8 @@
+{
+  "name": "Remix IOE K7 2024–2025",
+  "description": "Chinh phục IOE K7 từng câu một. Luyện tập 51 bộ đề IOE lớp 7 với đầy đủ câu hỏi, âm thanh, sắp xếp từ và giải thích chi tiết.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

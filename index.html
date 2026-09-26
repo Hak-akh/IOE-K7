@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IOE K7 2024–2025 - Chinh phục IOE K7 từng câu một</title>
+    <script>
+      // Safeguard against environments where window.fetch is getter-only
+      (function() {
+        try {
+          var origFetch = typeof window !== 'undefined' && window.fetch ? window.fetch.bind(window) : null;
+          var activeFetch = origFetch;
+          if (origFetch) {
+            var descriptor = {
+              get: function() {
+                return activeFetch;
+              },
+              set: function(fn) {
+                activeFetch = fn;
+              },
+              configurable: true,
+              enumerable: true
+            };
+            try {
+              Object.defineProperty(window, 'fetch', descriptor);
+            } catch (_) {}
+            try {
+              if (typeof Window !== 'undefined' && Window.prototype) {
+                Object.defineProperty(Window.prototype, 'fetch', descriptor);
+              }
+            } catch (_) {}
+          }
+        } catch (_) {}
+      })();
+    </script>
+    <meta name="description" content="Chinh phục IOE K7 từng câu một. Luyện tập 51 bộ đề IOE lớp 7 với đầy đủ câu hỏi, âm thanh, sắp xếp từ và giải thích chi tiết." />
+    <meta property="og:title" content="IOE K7 2024–2025 - Chinh phục IOE K7 từng câu một" />
+    <meta property="og:description" content="Chinh phục IOE K7 từng câu một. Luyện tập 51 bộ đề IOE lớp 7 với đầy đủ câu hỏi, âm thanh, sắp xếp từ và giải thích chi tiết." />
+    <meta property="og:type" content="website" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>
+
