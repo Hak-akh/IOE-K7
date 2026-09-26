@@ -4,7 +4,7 @@ import path from 'path';
 import { defineConfig } from 'vite';
 
 export default defineConfig({
-  base: '/IOE-K7/',
+ base: '/IOE-K7/',
   plugins: [react(), tailwindcss()],
   resolve: {
     alias: {
